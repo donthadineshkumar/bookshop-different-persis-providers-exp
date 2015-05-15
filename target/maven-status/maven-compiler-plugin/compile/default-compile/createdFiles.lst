@@ -1,0 +1,10 @@
+com/bshop/controllers/BookController.class
+com/bshop/config/SecurityConfig.class
+com/bshop/repository/BookRepository.class
+com/bshop/config/SecurityWebApplicationInitializer.class
+com/bshop/service/InitBooks.class
+com/bshop/controllers/BasicController.class
+com/bshop/service/BookService.class
+com/bshop/controllers/LoginController.class
+com/bshop/config/DatabaseConfig.class
+com/bshop/entity/Book.class
